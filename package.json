@@ -10,15 +10,24 @@
 		"Other"
 	],
 	"activationEvents": [
-        "onCommand:template-file-generator.helloWorld"
+        "onCommand:template-file-generator.createTemplateFile"
 	],
 	"main": "./extension.js",
 	"contributes": {
 		"commands": [{
-            "command": "template-file-generator.helloWorld",
-            "title": "Hello World"
+            "command": "template-file-generator.createTemplateFile",
+            "title": "createTemplateFile"
 
-		}]
+		}],
+		"menus": {
+			"explorer/context":[
+				{
+					"command": "template-file-generator.createTemplateFile",
+					"group": "navigation",
+					"when": "explorerResourceIsFolder"
+				}
+			]
+		}
 	},
 	"scripts": {
 		"lint": "eslint .",
