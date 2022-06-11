@@ -1,20 +1,19 @@
 # template-file-generator README
 
-This is the README for your extension "template-file-generator". After writing up a brief description, we recommend including the following sections.
+This extension is for generating template file.
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
-
-For example if there is an image subfolder under your extension project workspace:
-
-\!\[feature X\]\(images/feature-x.png\)
+create a template file in a folder.
+![feature 1](images/f1_1.png)
+![feature 1](images/f1_2.png)
+![feature 1](images/f1_3.png)
 
 > Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
 
 ## Requirements
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+Installed this extension
 
 ## Extension Settings
 
@@ -37,7 +36,7 @@ Users appreciate release notes as you update your extension.
 
 ### 1.0.0
 
-Initial release of ...
+Initial release of this extension in 2022.06.11
 
 ### 1.0.1
 
