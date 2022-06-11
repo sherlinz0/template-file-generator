@@ -53,7 +53,7 @@ Calling out known issues can help limit users opening duplicate issues against y
 <!-- Users appreciate release notes as you update your extension. -->
 If you would like to install packaged extension, please turn in to the Release Page.
 
-### 1.0.0
+### 0.0.1
 
 Initial release of this extension in 2022.06.11
 
