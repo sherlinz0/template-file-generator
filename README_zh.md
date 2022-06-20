@@ -1,6 +1,6 @@
 # template-file-generator README
 
-[英文](./README.md) | [中文](./README_zh.md)
+[English](./README.md) | [简体中文](./README_zh.md)
 
 该拓展用于生成模板文件.
 
